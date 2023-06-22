@@ -1,0 +1,41 @@
+.navbar {
+    background-color: rgb(19,26,34); /* Set your desired background color */
+    height:80px;
+    margin: 0;
+  }
+  
+  .navbar .nav-link {
+    color:white; /* Set your desired text color */
+  }
+  
+  .navbar .nav-link:hover {
+    color: #fff; /* Set your desired hover color */
+  }
+  img{
+
+    height: 50px;
+
+    width: 50px;
+
+ 
+
+  border-radius: 50%;
+
+  overflow: hidden;
+
+  background-color: rgb(237, 237, 237);
+
+ 
+
+  }
+
+  .collapse {
+
+    margin-left: 500pt;
+
+  }
+  .buttonbackground{
+    color:black;
+    background-color:white;
+  }
+  

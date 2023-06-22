@@ -1,0 +1,19 @@
+.form-container {
+    border: 1px solid #ccc;
+    padding: 50px;
+    padding-top: 50px;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  .container{
+    padding-top: 50px;
+  }
+  .form-container {
+    background-color:#232F3E;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .form-container form {
+    color: white;
+  }

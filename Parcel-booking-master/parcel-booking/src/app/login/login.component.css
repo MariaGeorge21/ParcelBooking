@@ -1,0 +1,25 @@
+.fullimg {
+  background-image: url(/assets/istockphoto-1056632178-1024x1024-transformed.jpeg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.loginpage {
+  position: relative; 
+  z-index: 2;
+}
+
+.card {
+  border: none;
+  width: 400px;
+  height: 600px;
+}
+
+.card-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

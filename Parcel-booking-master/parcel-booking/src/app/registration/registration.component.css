@@ -1,0 +1,9 @@
+.custom-image {
+    border-radius: 0; /* Set border-radius to 0 to remove roundness */
+  }
+  .fullimg {
+    background-image: url(/assets/pexels-tima-miroshnichenko-6169135.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
